@@ -1,0 +1,1 @@
+{"version":3,"file":"refs-C_mHC-55.js","sources":["../../src/js/refs.js"],"sourcesContent":["export const refs = {\n  timeClock: document.querySelector('.current-time'),\n  banner: document.querySelector('.hint-banner'),\n};\n"],"names":["refs"],"mappings":"AAAY,MAACA,EAAO,CAClB,UAAW,SAAS,cAAc,eAAe,EACjD,OAAQ,SAAS,cAAc,cAAc,CAC/C"}
