@@ -1,0 +1,2 @@
+import"./assets/modulepreload-polyfill-B5Qt9EMX.js";const e={checkBox:document.querySelector(".check"),nextBtn:document.querySelector(".next-btn"),stateText:document.querySelector(".state")};console.log(e);const n=t=>{if(console.log(t),t.target.checked){e.nextBtn.disabled=!1,e.stateText.textContent="Статус: підтверджено";return}e.nextBtn.disabled=!0,e.stateText.textContent="Статус: не підтверджено"};e.checkBox.addEventListener("change",n);
+//# sourceMappingURL=check-box.js.map
